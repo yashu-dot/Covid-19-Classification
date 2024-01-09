@@ -1,4 +1,4 @@
-**COVID-19 Classification with Generative Data Augmentation**
+# COVID-19 Classification with Generative Data Augmentation
 
 **Introduction**
 
