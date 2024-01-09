@@ -1,4 +1,4 @@
-**COVID-19 Classification with Generative Data Augmentation**
+****COVID-19 Classification with Generative Data Augmentation****
 
 **Introduction**
 The COVID-19 pandemic has underscored the need for fast and accurate diagnostics in critical healthcare situations. Deep Learning algorithms, especially Convolutional Neural Networks 
@@ -21,12 +21,13 @@ and GAN-augmented datasets.
 
 **Results**
 Testing accuracies of the models with traditional and GANs augmented training data are summarized below.
-Model	Traditional (%)	GANs (%)
-ResNet-50	94	79
-Xception	83	67
-MobileNet-v2	95	92
-Custom Model	89	85
-VGG16	97	83
+|      Model    | Traditional (%) | GANs (%) |
+| ------------- | --------------- | ---------|
+| ResNet-50     |         94      |    79    |
+| Xception      |         83      |    67    |
+| MobileNet-v2  |         95      |    92    |
+| Custom Model  |         89      |    85    |
+| VGG16         |         97      |    83    |
 
 **Conclusion**
 In conclusion, deep-learning models trained on traditionally augmented datasets outperformed those trained with synthetic images from GANs. Computational limitations
